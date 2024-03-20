@@ -1,6 +1,6 @@
 ### Seja Bem Vindo ao Meu GitHub! 👋
 
-* 🔭 Analista de T.I 
+* 🔭 Analista de T.I Jr.
 * 🌱 Atualmente estou aprendendo Laravel/Docker
 * 📫 Como entrar em contato comigo: sf.guga@gmail.com
 * 😄 Pronomes: ele/dele
