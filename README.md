@@ -2,6 +2,7 @@
 
 * 🔭 Analista de T.I Jr.
 * 🌱 Atualmente estou aprendendo Laravel/Docker
+* 🎓 Formado em ADS e finalizando SI
 * 📫 Como entrar em contato comigo: sf.guga@gmail.com
 * 😄 Pronomes: ele/dele
 
