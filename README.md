@@ -1,8 +1,8 @@
 ### Seja Bem Vindo ao Meu GitHub! 👋
 
 * 🔭 Analista de T.I Jr.
-* 🌱 Atualmente estou aprendendo Laravel/Docker
-* 🎓 Formado em ADS e finalizando SI
+* 🌱 Atualmente estou aprimorando meus conhencimentos em C# e ASP.NET.
+* 🎓 Formado em ADS e finalizando SI e Iniciando Gestão de Projetos
 * 📫 Como entrar em contato comigo: sf.guga@gmail.com
 * 😄 Pronomes: ele/dele
 
