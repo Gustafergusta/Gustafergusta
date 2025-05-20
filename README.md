@@ -1,6 +1,6 @@
 ### Seja Bem Vindo ao Meu GitHub! 👋
 
-* 🔭 Analista de T.I Jr.
+* 🔭 Analista de Sistemas Pleno.
 * 🌱 Atualmente estou aprimorando meus conhencimentos em C# e ASP.NET.
 * 🎓 Formado em ADS e finalizando SI e Iniciando Gestão de Projetos
 * 📫 Como entrar em contato comigo: sf.guga@gmail.com
