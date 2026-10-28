@@ -1,8 +1,8 @@
 ### Seja Bem Vindo ao Meu GitHub! 👋
 
-* 🔭 Analista de Sistemas Pleno.
-* 🌱 Atualmente estou aprimorando meus conhencimentos em Power Automate e N8N.
-* 🎓 Formado em ADS e finalizando SI e Gestão de Projetos.
+* 🔭 Software Engenier II.
+* 🌱 Atualmente estou aprimorando meus conhencimentos em Power Plataform e Fabric.
+* 🎓 Formado em ADS e Gestão de Projetos e finalizando SI.
 * 📫 Como entrar em contato comigo: sf.guga@gmail.com
 * 😄 Pronomes: ele/dele
 
